@@ -1,7 +1,7 @@
 // You should implement your task here.
 
 module.exports = function towelSort(matrix) {
-    console.log("asd");
+    console.log("asdasdasd");
     let sum = [];
     if (matrix === undefined) return [];
     for (let i = 0; i < matrix.length; i++) {
